@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with AI-powered suggestions.",
+    "price": 1200,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://w7.pngwing.com/pngs/560/319/png-transparent-computer-icons-document-technical-standard-information-text-file-text-rectangle-logo.png"
+  },
+  {
+    "id": 2,
+    "name": "AI Logo Generator",
+    "description": "Generate unique logos instantly using AI.",
+    "price": 800,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Custom logo styles", "High-res export", "Brand kit"],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmvkVi15OeaPaYqspPOHgE6O1ONxZJWVKNvA&s"
+  },
+  {
+    "id": 3,
+    "name": "Social Media Kit",
+    "description": "Design posts, stories, and ads easily.",
+    "price": 1500,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["500+ templates", "Auto resize", "Content planner"],
+    "icon": "https://png.pngtree.com/png-vector/20191028/ourmid/pngtree-share-icon-isolated-on-background-png-image_1901867.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Website Builder AI",
+    "description": "Build modern websites without coding.",
+    "price": 3000,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Drag & drop builder", "SEO tools", "Custom domain"],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKulFYVYLnL6-XtewuG6k8QJV-pPNQMhtJw&s"
+  },
+  {
+    "id": 5,
+    "name": "Video Editor Pro",
+    "description": "Edit videos with powerful AI tools.",
+    "price": 2000,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Auto subtitles", "Transitions", "HD export"],
+    "icon": "https://png.pngtree.com/png-vector/20250831/ourmid/pngtree-flat-clapperboard-video-icon-black-and-white-striped-top-with-simple-png-image_17345655.webp"
+  },
+  {
+    "id": 6,
+    "name": "Productivity Suite",
+    "description": "All-in-one tools to boost your workflow.",
+    "price": 2500,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Task manager", "Notes", "Calendar sync"],
+    "icon": "https://thumbs.dreamstime.com/z/check-square-transparent-icon-symbol-design-w-web-navigation-collection-simple-element-vector-illustration-background-130316011.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Email Marketing Tool",
+    "description": "Create and manage email campaigns.",
+    "price": 1800,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Email templates", "Analytics", "Automation"],
+    "icon": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-email-icon-png-image_5065641.jpg"
+  },
+  {
+    "id": 8,
+    "name": "E-commerce Toolkit",
+    "description": "Start and manage your online store.",
+    "price": 4000,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Product management", "Payment integration", "Order tracking"],
+    "icon": "https://images.vexels.com/media/users/3/141186/isolated/preview/431ad815c9a8402ebdf354c82923c2a5-shopping-cart-6.png"
+  },
+  {
+    "id": 9,
+    "name": "AI Content Writer",
+    "description": "Generate blog posts, ads, and copy instantly.",
+    "price": 2200,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Blog generator", "SEO optimization", "Multi-language support"],
+    "icon": "https://e7.pngegg.com/pngimages/11/982/png-clipart-pen-nib-pen-tool-computer-icons-fountain-pen-angle-pencil-thumbnail.png"
+  }
+]
