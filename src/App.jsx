@@ -5,6 +5,7 @@ import Banner from './Component/Banner-Section/Banner'
 import Navbar from './Component/Navbar/Navbar'
 import Products from './Component/Products/Products'
 import Card from './Component/Card/Card'
+import Started from './Component/Started/Started'
 
 const getProducts = async() => {
   const res = await fetch("/products.json")
@@ -34,6 +35,7 @@ function App() {
   onClick={()=>setActiveTab('products')}
   defaultChecked 
   />
+ 
 
   <input type="radio" 
   name="my_tabs_1" 
@@ -41,14 +43,16 @@ function App() {
   aria-label={`Cart (${cards.length})`}
   onClick={()=>setActiveTab('card')}
   />
+  
  
 </div>
 
     { activeTab === "products" && <Products productsPromise={productsPromise} cards={cards} setCards={setCards}></Products>}
+     
 
     { activeTab === "card" && <Card cards={cards}
     setCards={setCards}/>}
-
+<Started></Started>
 
 
     </>
