@@ -6,6 +6,8 @@ import Navbar from './Component/Navbar/Navbar'
 import Products from './Component/Products/Products'
 import Card from './Component/Card/Card'
 import Started from './Component/Started/Started'
+import Pricing from './Component/Pricing/Pricing'
+import Workflow from './Component/Workflow/Workflow'
 
 const getProducts = async() => {
   const res = await fetch("/products.json")
@@ -53,6 +55,8 @@ function App() {
     { activeTab === "card" && <Card cards={cards}
     setCards={setCards}/>}
 <Started></Started>
+<Pricing></Pricing>
+<Workflow></Workflow>
 
 
     </>
