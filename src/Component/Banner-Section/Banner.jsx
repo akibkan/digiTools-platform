@@ -4,7 +4,7 @@ import SecondBanner from './SecondBanner';
 const Banner = () => {
     return (
         <>
-        <div className='flex w-10/12 mx-auto mt-15 items-center'>
+        <div className='flex  flex-col md:flex-row w-10/12 mx-auto mt-15 items-center'>
             <div>
                 <div className="inline-block px-6 py-2 rounded-full bg-linear-to-r from-[#bcb6e8] to-[#7C4DFF]/20 mb-5">
                     <p className="bg-linear-to-r from-[#9839f6] to-[#7C4DFF] bg-clip-text text-transparent font-medium text-[16px]">

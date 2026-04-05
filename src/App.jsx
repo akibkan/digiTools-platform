@@ -8,6 +8,7 @@ import Card from './Component/Card/Card'
 import Started from './Component/Started/Started'
 import Pricing from './Component/Pricing/Pricing'
 import Workflow from './Component/Workflow/Workflow'
+import Futter from './Component/Futter/Futter'
 
 const getProducts = async() => {
   const res = await fetch("/products.json")
@@ -57,6 +58,7 @@ function App() {
 <Started></Started>
 <Pricing></Pricing>
 <Workflow></Workflow>
+<Futter></Futter>
 
 
     </>
